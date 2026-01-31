@@ -1,4 +1,4 @@
-# KMPLocation
+# kmp-location
 
 Explorando como utilizar geolocalização no Kotlin Multiplatform.
 
